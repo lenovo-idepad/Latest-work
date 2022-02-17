@@ -42,6 +42,7 @@ a, span, img {
     color: #fff;
     text-decoration: none;
 }
+
 .btn {
     background-color: #066F14;
     border: none;
@@ -56,7 +57,7 @@ a, span, img {
     display: inline-block;
 }
 
-.btn:hover {
+.btn:hover, .sign:hover {
     background-color: #1e8f2d;
 }
 
